@@ -1,0 +1,255 @@
+dt.ui_tpicker_second_label.ui_tpicker_unit_hide {
+    display: none
+}
+
+dd.ui_tpicker_second.ui_tpicker_unit_hide {
+    display: none
+}
+
+dt.ui_tpicker_millisec_label.ui_tpicker_unit_hide {
+    display: none
+}
+
+dd.ui_tpicker_millisec.ui_tpicker_unit_hide {
+    display: none
+}
+
+.ui_tpicker_microsec_slider.ui_tpicker_unit_hide.ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all {
+    display: none
+}
+
+dd.ui_tpicker_timezone.ui_tpicker_unit_hide {
+    display: none
+}
+
+dt.ui_tpicker_timezone_label.ui_tpicker_unit_hide {
+    display: none
+}
+
+.ui_tpicker_microsec_slider.ui_tpicker_unit_hide {
+    display: none
+}
+
+dt.ui_tpicker_microsec_label.ui_tpicker_unit_hide {
+    display: none
+}
+
+.ui_tpicker_microsec_slider.ui_tpicker_unit_hide.ui-slider.ui-slider-horizontal.ui-widget.ui-widget-content.ui-corner-all {
+    display: none
+}
+
+dd.ui_tpicker_timezone.ui_tpicker_unit_hide {
+    display: none
+}
+
+dt.ui_tpicker_timezone_label.ui_tpicker_unit_hide {
+    display: none
+}
+
+.ui_tpicker_microsec_slider.ui_tpicker_unit_hide {
+    display: none
+}
+
+div#ui-datepicker-div {
+    z-index: 99999!important;
+    padding: 15px
+}
+
+dd.ui_tpicker_minute_slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all {
+    dispaly: none
+}
+
+body .ui-tooltip {
+    border-width: 2px;
+    display: none
+}
+
+.shake-horizontal {
+    animation-name: shake-horizontal;
+    animation-duration: 400ms;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite
+}
+
+.tender_view_tab .k-portlet__body {
+    padding-top: 6px
+}
+
+.nav-tabs.nav-tabs-line .nav-link {}
+
+.nav-tabs.nav-tabs-line {}
+
+.nav-tabs.nav-tabs-line.nav-tabs-line-danger.nav.nav-tabs .nav-link:hover,
+.nav-tabs.nav-tabs-line.nav-tabs-line-danger.nav.nav-tabs .nav-link.active,
+.nav-tabs.nav-tabs-line.nav-tabs-line-danger a.nav-link:hover,
+.nav-tabs.nav-tabs-line.nav-tabs-line-danger a.nav-link.active {}
+
+.tender_view_tab .k-portlet__head {
+    min-height: inherit
+}
+
+.tender_view_tab.k-portlet--tabs .nav-tabs.nav-tabs-line {}
+
+.tender_view_tab.k-portlet--tabs .nav-tabs.nav-tabs-line .nav-item {
+    margin-right: 15px;
+    margin-bottom: -1px
+}
+
+.tender_view_tab .nav-tabs.nav-tabs-line .nav-link {
+    border: 0;
+    border-bottom: 1px solid transparent;
+    padding: 12px 15px;
+    font-size: 1rem;
+    font-weight: 400
+}
+
+.payment_mode {
+    position: relative;
+    top: 9px;
+    left: 11px;
+    font-weight: normal
+}
+
+.tender_search {
+    padding: 0
+}
+
+.tender_search li {
+    width: 23.5%;
+    float: left;
+    list-style: none;
+    margin-right: 10px
+}
+
+.AuctionWizard .wizard_tb .nav-pills.nav-tabs-btn .nav-item {
+    border-radius: 100px;
+    background-color: #fff;
+    height: 45px;
+    width: 45px;
+    margin: 0 5.3rem;
+    cursor: no-drop
+}
+
+.AuctionWizard .connecting-line {
+    height: 2px;
+    background-color: #d8d8d8;
+    position: absolute;
+    width: 87%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 50%;
+    z-index: 1
+}
+
+.mdl-bg {
+    background-color: #000000ab
+}
+
+.k-separator.k-separator--height-sm {
+    height: .5rem
+}
+
+.wizard_tb .nav-pills.nav-tabs-btn .nav-link {
+    padding: 8px!important;
+    border-radius: 100px;
+    border: 1px solid #dedede;
+    height: 45px;
+    width: 45px;
+    pointer-events: none
+}
+
+.wizard_tb .nav-pills.nav-tabs-btn .nav-item {
+    border-radius: 100px;
+    background-color: #fff;
+    height: 45px;
+    width: 45px;
+    margin: 0 3.5rem;
+    cursor: no-drop
+}
+
+.connecting-line {
+    height: 2px;
+    background-color: #d8d8d8;
+    position: absolute;
+    width: 90%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 42%;
+    z-index: 1
+}
+
+.sve_class_cl {
+    background-color: #44cb99
+}
+
+.sve_class_cl span {
+    color: #fff!important
+}
+
+.sve_class_already {
+    background-color: #00bcd4
+}
+
+.sve_class_already span {
+    color: #fff!important
+}
+ 
+.modal-body .ps>.ps__rail-y>.ps__thumb-y {
+    background: #5867dc;
+    opacity: 1
+}
+
+.space_btn_height {
+    height: 21px
+}
+
+.detail-tender {
+    padding: 5px 0 8px
+}
+
+.detail-tender p {
+    text-align: center;
+    margin: 0;
+    color: #6e4ff6;
+    font-size: 13px
+}
+
+.detail-tender p span {
+    color: #fd3995;
+    padding-right: 8px;
+    padding-left: 8px
+}
+
+ .uplodeFolderFile .modal-header{
+        border-bottom:0;
+        padding-bottom:0;
+    }
+    .pd-tp{
+        padding-top:0px;
+    }
+    .pd-bt{
+        padding-bottom:0px;
+    }
+    .pd-lt{
+        padding-left:0px;
+    }
+    .pd-right{
+        padding-top:0px;
+    }
+    .paddingboth {
+        padding: 0!important;
+    }
+    .input_upload {
+        margin: 60px auto;
+        text-align: center;
+    }
+    .input_upload label {
+        border: 1px solid #dedede;
+        padding: 10px;
+        font-size: 13px;
+    }
+    .errorColor{
+        color: red;
+    }
