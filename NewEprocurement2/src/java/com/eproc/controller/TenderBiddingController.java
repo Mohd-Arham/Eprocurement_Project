@@ -1750,6 +1750,12 @@ public class TenderBiddingController {
         String url = FileUtility.UPLOAD_TEMPORARYDOCUMENT;
         try {
 
+            if(!url==null){
+                System.out.print("HHHH");
+            }
+            else{
+                System.out.print("HHHH");
+            }
 //            validateEnvelopeAModel.validate(dynamicTemplatePojo, session);
             //  System.out.println("  " + dynamicTemplatePojo.getDatalist().size());
             envelopeAId = (int) session.getAttribute("envelopeAId");
